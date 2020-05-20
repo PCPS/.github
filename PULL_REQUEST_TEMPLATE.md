@@ -9,8 +9,11 @@ Where is it documented?
 
 Where has this been tested?
 ---------------------------
-**Browser/Version:** …
-
+- [ ] Safari
+- [ ] Internet Explorer
+- [ ] Microsoft Edge
+- [ ] Chrome
+- [ ] Firefox
 
 Defintion of Done:
 ---------------------------
