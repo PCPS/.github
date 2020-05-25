@@ -18,20 +18,18 @@ Where has this been tested?
 Defintion of Done:
 ---------------------------
 
-- Acceptance criterias are fulfilled
-- All tests pass
-- Documentation up to date
-- Review done
-- Deployed on staging
-- Review Checklist
+- [ ] Acceptance criterias are fulfilled
+- [ ] All tests pass
+- [ ] Documentation up to date
+- [ ] Review Checklist
 
 Review Checklist:
 ---------------------------
-- Test coverage checked
-- Internet Explorer tested
-- Responsiveness tested
-- Different languages tested
-- Spelling checked in all languages
-- Styleguide checked
-- Checked for incompatible API changes
-- Checked Model Referencial Integrity
+- [ ] Test coverage checked
+- [ ] Internet Explorer tested
+- [ ] Responsiveness tested
+- [ ] Different languages tested
+- [ ] Spelling checked in all languages
+- [ ] Styleguide checked
+- [ ] Checked for incompatible API changes
+- [ ] Checked Model Referencial Integrity
