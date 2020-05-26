@@ -7,6 +7,10 @@ Where is it documented?
 ---------------------------
 …
 
+How can i test it?
+---------------------------
+…
+
 Where has this been tested?
 ---------------------------
 - [ ] Safari
