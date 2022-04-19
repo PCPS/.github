@@ -7,19 +7,18 @@ Where is it documented?
 ---------------------------
 …
 
-How can i test it?
+How can I test it?
 ---------------------------
 …
 
 Where has this been tested?
 ---------------------------
 - [ ] Safari
-- [ ] Internet Explorer
 - [ ] Microsoft Edge
 - [ ] Chrome
 - [ ] Firefox
 
-Defintion of Done:
+Definition of Done:
 ---------------------------
 
 - [ ] Acceptance criterias are fulfilled
@@ -30,10 +29,10 @@ Defintion of Done:
 Review Checklist:
 ---------------------------
 - [ ] Test coverage checked
-- [ ] Internet Explorer tested
 - [ ] Responsiveness tested
 - [ ] Different languages tested
 - [ ] Spelling checked in all languages
 - [ ] Styleguide checked
 - [ ] Checked for incompatible API changes
 - [ ] Checked Model Referencial Integrity
+- [ ] Checked for standard and secure coding conventions
